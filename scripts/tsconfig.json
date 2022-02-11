@@ -8,7 +8,7 @@
         "target": "es6",
         "module": "commonjs",
         "types": ["node"],
-        "lib": ["es6", "scripthost"],
+        "lib": ["es6", "scripthost"]
     },
 
     "include": [
